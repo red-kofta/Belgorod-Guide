@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Белгород-путеводитель</string>
+    <string name="title_news">Нововсти</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_store">Магазин</string>
+
+    <string-array name="news_headers">
+        <item>Пожар возле железнодорожного вокзала в Белгороде</item>
+        <item>В белгородской Журавлёвке при обстреле со стороны Украины ранен 37-летний мужчина</item>
+        <item>В Белгородской области раскрыли ещё одно убийство 20-летней давности</item>
+        <item>На майские праздники в Прохоровку прибудет туристический поезд из Москвы</item>
+        <item>Студентам БелГУ предложили написать письма российским солдатам</item>
+        <item>На белгородской почте бухгалтер полгода присваивал себе зарплату коллег</item>
+        <item>В Белгородской области эвакуировали жителей сёл Безымено и Сподарюшено после обстрела со стороны Украины</item>
+        <item>Ольга Павлова покинет пост председателя белгородской облдумы</item>
+        <item>В Старом Осколе появится новый микрорайон Майский на 1,5 тыс. квартир</item>
+        <item>СМИ: белгородским школьникам задали выучить песню «Русский марш»</item>
+        <item>ТАСС: в Брянске при обстреле со стороны Украины пострадала беременная и ребёнок</item>
+        <item>«Синий кот» пошёл в «Нешколу»</item>
+        <item>Фонтаны в Белгороде запустят 1 мая</item>
+    </string-array>
+
+    <string-array name="news_footers">
+        <item>В Белгороде в районе железнодорожного вокзала горит камыш. Жителей успокоил мэр Антон Иванов: по его словам, опасности нет.</item>
+        <item>Сегодня, 14 апреля, село Журавлёвка на российско-украинской границе в Белгородской области вновь обстреляли со стороны соседнего государства. Об этом сообщил губернатор Вячеслав Гладков.</item>
+        <item>СК по Белгородской области завершил расследование убийства, совершённого почти 20 лет назад. Подозреваемый – 51-летний житель Старооскольского горокруга.</item>
+        <item>Накануне Дня Победы запускается круговой туристический поезд № 927/928 к местам знаковых сражений Великой Отечественной войны: Москва –Прохоровка – Тула – Москва.</item>
+        <item>Предлагают подумать, что им было бы приятно услышать. Для упрощения задачи студентам даже приложили пример письма.</item>
+        <item>Теперь он будет отдаватьгосударству 15 % своего заработка ближайшие два с половиной года. Историю мужчины, который долгое время забирал часть зарплаты работников почты себе, рассказали в пресс-службе Октябрьского районного суда.</item>
+        <item>Пострадавших и разрушений нет.</item>
+        <item>Как сообщил «Коммерсантъ», спикеру навредила любовь к книгам, а конкретно – к «Потрясению» Евгения Савченко.</item>
+        <item>Губернатор Белгородской области вчера провёл заседание архитектурного совета, на котором рассмотрели 7 проектов комплексной застройки территорий.</item>
+        <item>Об этом сообщили в Telegram-канале «Белгород №1», прикрепив фото с текстом песни.</item>
+        <item>Всего в результате обстрела пострадало семь человек.</item>
+        <item>Металлоинвест на протяжении трёх лет поддерживает образовательный проект по развитию особенных детей из Губкина.</item>
+        <item>Как сообщил мэр Белгорода Антон Иванов в своём Telegram-канале, фонтаны города начали готовить к началу сезона.</item>
+    </string-array>
+
+
+    <string-array name="news_urls">
+        <item>https://www.go31.ru/news/3371276/pozar-vozle-zeleznodoroznogo-vokzala-v-belgorode-video</item>
+        <item>https://www.go31.ru/news/3371251/v-belgorodskoj-zuravlevke-pri-obstrele-so-storony-ukrainy-ranen-37-letnij-muzcina</item>
+        <item>https://www.go31.ru/news/3371143/v-belgorodskoj-oblasti-raskryli-ese-odno-ubijstvo-20-letnej-davnosti</item>
+        <item>https://www.go31.ru/news/3371129/na-majskie-prazdniki-v-prohorovku-pribudet-turisticeskij-poezd-iz-moskvy</item>
+        <item>https://www.go31.ru/news/3371103/studentam-belgu-predlozili-napisat-pisma-rossijskim-soldatam</item>
+        <item>https://www.go31.ru/news/3371020/na-belgorodskoj-pocte-buhgalter-polgoda-prisvaival-sebe-zarplatu-kolleg</item>
+        <item>https://www.go31.ru/news/3371053/v-belgorodskoj-oblasti-evakuirovali-zitelej-sel-bezymeno-i-spodaruseno-posle-obstrela-so-storony-ukrainy</item>
+        <item>https://www.go31.ru/news/3371046/olga-pavlova-pokinet-post-predsedatela-belgorodskoj-obldumy</item>
+        <item>https://www.go31.ru/news/3370898/v-starom-oskole-poavitsa-novyj-mikrorajon-majskij-na-15-tys-kvartir</item>
+        <item>https://www.go31.ru/news/3370967/smi-belgorodskim-skolnikam-zadali-vyucit-pesnu-russkij-mars</item>
+        <item>https://www.go31.ru/news/3370966/tass-v-branske-pri-obstrele-so-storony-ukrainy-postradala-beremennaa-i-rebenok</item>
+        <item>https://www.go31.ru/news/3370971/sinij-kot-posel-v-neskolu</item>
+        <item>https://www.go31.ru/news/3370896/fontany-v-belgorode-zapustat-1-maa</item>
+    </string-array>
+
+    <string-array name="ents">
+        <item>Торговые центры</item>
+        <item>Кинотеатры</item>
+        <item>Театры</item>
+        <item>Клубы</item>
+        <item>Музеи</item>
+    </string-array>
+
+    <string-array name="tc">
+        <item>Белгород</item>
+        <item>Мегагринн</item>
+        <item>Сити Молл</item>
+        <item>РИО</item>
+        <item>Меркурий</item>
+        <item>Семейный</item>
+        <item>Маяк</item>
+        <item>Славянский</item>
+        <item>Времена года</item>
+        <item>Атлас</item>
+        <item>Водстрой</item>
+    </string-array>
+
+    <string-array name="cinemas">
+        <item>Гриннфильм</item>
+        <item>Синема Парк</item>
+        <item>Русич</item>
+        <item>Победа</item>
+        <item>Синема Стар Рио</item>
+        <item>Радуга</item>
+        <item>Спутник Белгород</item>
+    </string-array>
+
+    <string-array name="theaters">
+        <item>ДК "Энергомаш"</item>
+        <item>Дворец культуры БГТУ им. Шухова</item>
+        <item>Детский музыкальный театр</item>
+        <item>Дом офицеров</item>
+        <item>Драматический театр им. Щепкина</item>
+        <item>Дубовской ДК</item>
+    </string-array>
+
+    <string-array name="clubs">
+        <item>Zажигалка</item>
+        <item>Новый Вавилон</item>
+        <item>Ча:сы</item>
+        <item>Аристократ</item>
+        <item>Арт-Студия</item>
+        <item>Luna</item>
+    </string-array>
+
+    <string-array name="museums">
+        <item>Музей-Диорама Курская Битва. Белгородское Направление</item>
+        <item>Контактный музей средневекового военного дела</item>
+        <item>Белгородский Динопарк</item>
+        <item>Белгородский государственный художественный музей</item>
+        <item>Белгородский государственный историко-краеведческий музей</item>
+        <item>Белгородский литературный музей</item>
+        <item>Духовно-Просветительский Центр во имя Святителя Иоасафа Белгородского</item>
+        <item>Белгородский государственный музей народной культуры</item>
+        <item>Музей-мастерская С.С. Косенкова</item>
+        <item>Галерея союза художников</item>
+    </string-array>
+
+    <string-array name="products">
+        <item>Кеды NIKE SB Zoom Blazer Mid Premium Lilac/Court Blue-Copa-Dutch Blue</item>
+        <item>Футболка HUF Gang Control S/S Tee Black</item>
+        <item>Часы NEFF Duo Watch magenta</item>
+        <item>Скейтборд в сборе GLOBE G1 Fairweather 8.125 - black/red</item>
+        <item>Кружка PICTURE ORGANIC WWF SHERMAN CUP A Black</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>8790</item>
+        <item>4500</item>
+        <item>1950</item>
+        <item>8990</item>
+        <item>2000</item>
+    </string-array>
+
+    <string-array name="prod_urls">
+        <item>https://www.skvot.com/catalog/shoes/gumshoes-nike--sb-zoom-blazer-mid-premium-lilac-court-blue-copa-dutch-blue-00174877</item>
+        <item>https://www.skvot.com/catalog/clothing/shirts-huf-gang-control-s-s-tee-black-CB-00006360</item>
+        <item>https://www.skvot.com/catalog/extrem-accessories/clock-neff-duo-watch-magenta-00129538</item>
+        <item>https://www.skvot.com/catalog/skateboarding/skateboards-assembly-globe-g1-fairweather---black-red-00170474</item>
+        <item>https://www.skvot.com/catalog/extrem-accessories/kruzki-pictureorganic-wwf-sherman-cup-a-black-00175737</item>
+    </string-array>
+
+</resources>
